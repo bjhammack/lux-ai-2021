@@ -1,6 +1,7 @@
 # Added ignores
 models/
 lux_tensorboard/
+log.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
